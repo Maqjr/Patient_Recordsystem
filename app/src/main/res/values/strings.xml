@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Patient Record system</string>
+    <string-array name="Consultancy">
+        <item>Physician</item>
+        <item>Cardiologists</item>
+        <item>Dermatologists</item>
+        <item>Psychiatrist</item>
+        <item>Radiologist</item>
+
+
+    </string-array>
+</resources>
